@@ -93,11 +93,9 @@ export default function App() {
 
 10. SS
 11. Create src folder & BarcodeExample.tsx & src/images and then write codes & add images to images folder
-12.Change App.tsx codes
-13.SS
+12. Change App.tsx codes
+13. SS
 14. On real devices => xed ios
 15. set signing a Team (Project Name/Signing & Capabilities/Signing)
 16. run
 17. SS
-
-
